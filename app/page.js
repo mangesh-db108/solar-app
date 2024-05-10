@@ -15,8 +15,8 @@ export default function Home() {
             target="_blank"
             rel="noopener noreferrer"
           >
-            By{" "}
-            <h1  style={{fontSize:'40px',fontWeight:'bold'}}>MDB</h1>
+             
+            <h1  style={{fontSize:'40px',fontWeight:'bold'}}>Biorajlab Comming Soon</h1>
           </a>
         </div>
       </div>
